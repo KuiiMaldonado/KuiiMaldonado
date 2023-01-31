@@ -1,4 +1,10 @@
-### Hi there 👋
+# Get to know me 🧑‍💻
+
+Hey there! My name is Cuitlahuac Maldonado. You pronounce it like this **[kwee-tlah-wak]**. Or if you prefer you can use my nickname, **Cui**.
+
+It is true that I have a B.S. Mechatronics Engineering but during my last year during university I started working as a Software Engineer. That experience showed how much I love programming.
+
+I like helping others understand stuff that they might find difficult. Also I'm always willing to learn and develop new skills.
 
 <!--
 **KuiiMaldonado/KuiiMaldonado** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
