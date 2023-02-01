@@ -6,7 +6,7 @@ It is true that I have a B.S. Mechatronics Engineering but during my last year d
 
 I like helping others understand stuff that they might find difficult. Also I'm always willing to learn and develop new skills.
 
-## Contact me
+## Contact me :pager:
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=cuitlahuac.maldonado@gmail.com&su=SUBJECT&body=BODY)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cuitlahuac-maldonado/)
 
@@ -71,24 +71,24 @@ I like helping others understand stuff that they might find difficult. Also I'm 
 ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
 ![Datadog](https://img.shields.io/badge/datadog-%23632CA6.svg?style=for-the-badge&logo=datadog&logoColor=white)
 
-## Testing
+## Testing :test_tube:
 <br>
 
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)
 ![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
 
-## CI/CD
+## CI/CD :dart:
 <br>
 
 ![GitLab CI](https://img.shields.io/badge/gitlab%20ci-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
 
-## VCS
+## VCS :label:
 <br>
 
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
 
-## Favorite IDEs
+## Favorite IDEs :keyboard:
 <br>
 
 ![WebStorm](https://img.shields.io/badge/webstorm-143?style=for-the-badge&logo=webstorm&logoColor=white&color=black)
